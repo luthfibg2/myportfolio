@@ -19,26 +19,22 @@ const words = [
 
 const navLinks = [
     {
-      name: "Work",
+      name: "Projek",
       link: "#work",
     },
     {
-      name: "Experience",
+      name: "Pengalaman",
       link: "#experience",
     },
     {
       name: "Skills",
       link: "#skills",
     },
-    {
-      name: "Testimonials",
-      link: "#testimonials",
-    },
 ];
   
 
 const counterItems = [
-    { value: 34.47, suffix: "+", label: "Indeks Prestasi Kumulatif" },
+    { value: 3.47, suffix: "+", label: "Indeks Prestasi Kumulatif" },
     { value: 554, label: "Skor TOEFL" },
     { value: 'A', label: "Pemrograman Web I & II" },
     { value: 'A', label: "Pemrograman Mobile II" },
